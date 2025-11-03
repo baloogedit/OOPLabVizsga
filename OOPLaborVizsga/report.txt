@@ -1,0 +1,63 @@
+--- E-COMMERCE FULL ORDER REPORT ---
+
+============================================
+ORDER ID: ORD-2025-1102-00123
+CUSTOMER:   (Tier: BRONZE)
+STATUS: PAID
+--------------------------------------------
+ITEMS:
+  PHYSICAL Item [Name: Java 6 OOP Basics (Video), Qty: 1, Unit Price: 79.90, SKU: COURSE-JAVA6-101]
+  -> Base: 79.90, Discount: -0.00, Tax: +0.00, TOTAL: 79.90
+  -> [PHYSICAL] Weight: 0.0kg
+  PHYSICAL Item [Name: Clean Code, RO, Qty: 2, Unit Price: 38.50, SKU: BOOK-978973413]
+  -> Base: 77.00, Discount: -5.00, Tax: +0.00, TOTAL: 72.00
+  -> [PHYSICAL] Weight: 0.9kg
+  PHYSICAL Item [Name: Extended Warranty 12m, Qty: 1, Unit Price: 14.99, SKU: WARR-1Y-EXT]
+  -> Base: 14.99, Discount: -0.00, Tax: +0.00, TOTAL: 14.99
+  -> [PHYSICAL] Weight: 0.0kg
+--------------------------------------------
+ORDER TOTAL: 166.89
+
+
+============================================
+ORDER ID: ORD-2025-1102-00124
+CUSTOMER:   (Tier: BRONZE)
+STATUS: PROCESSING
+--------------------------------------------
+ITEMS:
+  PHYSICAL Item [Name: Logitech MX Master 3 Mouse, Qty: 1, Unit Price: 99.00, SKU: MOUSE-LOGI-MX3]
+  -> Base: 99.00, Discount: -0.00, Tax: +0.00, TOTAL: 99.00
+  -> [PHYSICAL] Weight: 0.15kg
+  PHYSICAL Item [Name: Keychron K6 Mechanical Keyboard, Qty: 1, Unit Price: 89.90, SKU: KB-MECH-K6]
+  -> Base: 89.90, Discount: -10.00, Tax: +0.00, TOTAL: 79.90
+  -> [PHYSICAL] Weight: 0.0kg
+  PHYSICAL Item [Name: Home Office Setup Service, Qty: 1, Unit Price: 29.99, SKU: SETUP-HOME-OFFICE]
+  -> Base: 29.99, Discount: -0.00, Tax: +0.00, TOTAL: 29.99
+  -> [PHYSICAL] Weight: 0.0kg
+--------------------------------------------
+ORDER TOTAL: 208.89
+
+
+============================================
+ORDER ID: ORD-2025-1102-00125
+CUSTOMER:   (Tier: BRONZE)
+STATUS: SHIPPED
+--------------------------------------------
+ITEMS:
+  PHYSICAL Item [Name: Dell XPS 13 Laptop, Qty: 1, Unit Price: 1299.00, SKU: LAPTOP-DELL-XPS13]
+  -> Base: 1299.00, Discount: -50.00, Tax: +0.00, TOTAL: 1249.00
+  -> [PHYSICAL] Weight: 1.2kg
+  PHYSICAL Item [Name: Microsoft Office 365 License (1 year), Qty: 1, Unit Price: 69.90, SKU: SOFT-MS-OFFICE365]
+  -> Base: 69.90, Discount: -0.00, Tax: +0.00, TOTAL: 69.90
+  -> [PHYSICAL] Weight: 0.0kg
+--------------------------------------------
+ORDER TOTAL: 1318.90
+
+
+============================================
+--- GRAND SUMMARY ---
+Total Value All Orders: 1694.68
+Total Orders Processed: 3
+Total Line Items: 8
+Shippable (Physical) Items: 8
+Non-Shippable (Digital/Service) Items: 0
